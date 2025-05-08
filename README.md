@@ -1,6 +1,6 @@
 ### Hi there 👋
 **As curious as a cat.**
-- 🔭 I’m currently studing as a PhD candidate at Fudan university, shanghai, China.
+- 🔭 I’m no longer a PhD candidate at Fudan university, shanghai, China.
 - 🌱 I’m currently learning anything insteresting, including but not limited to nano-materials, DFT, computer sciences ...
 - 🤔 I’m looking for positions in materials simulation, catalytic reactor design, and electrochemical research ...
 
